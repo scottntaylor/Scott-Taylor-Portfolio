@@ -1,0 +1,87 @@
+style
+
+.Header {
+  position: fixed;
+  height: 30px;
+  width: 1080px;
+  background-color: white;
+  padding: 0px;
+  margin: 0px;
+  z-index: 1;
+}
+
+#Name {
+    float: left;
+    background-color: #4aaaa5;
+    height: 30px;
+    width: 150px;
+    border: 0px;
+    padding: 5px 0px 5px 0px;
+    margin: 5px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    left: 10%;
+    font-size: 20pt;
+}
+
+#Dropdown {
+    background-color:white;
+    overflow: hidden;
+    float: right;
+    color: grey;
+    font-size: 20pt;
+    padding: 5px 1px 5px 1px;
+    margin: 5px;
+  }
+ 
+
+
+
+h3 {
+    color: #4aaaa5;
+    font-size: 25pt;
+}
+
+.Container {
+    Float: left;
+    background-color: #ffffff;
+    height:450px;
+    width: 1100px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 15%;
+    border: 2px solid #dddddd;
+    padding: 1%;
+}
+
+
+Footer {
+    background-color: #666666;
+    border-color: turquoise;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    border-top: 5px solid #4aaaa5;
+
+  }
+
+body {
+    background-color: #dddddd;
+    font-family: sans-serif;
+}
+
+img {
+
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+P1 {
+  float: left;
+}
